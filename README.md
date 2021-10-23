@@ -6,7 +6,6 @@ QuizMaster is a quiz application built using JavaScript and styled using modern 
 4. Created a visual progress bar to track the user’s progress through the questions.
 5. Implemented Modern JavaScript Array Functions (splice, map, sort)
 
-Glimpes of the project have been added!!!
 
  ![Alt Text](https://github.com/ss-shrishi2000/QUIZZ-App/blob/main/Quiz1.png)
  ![Alt_Text](https://github.com/ss-shrishi2000/QUIZZ-App/blob/main/Quiz2.png)
