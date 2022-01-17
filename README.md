@@ -1,4 +1,4 @@
-# QUIZZ-App
+# Quizlly
 QuizMaster is a quiz application built using JavaScript and styled using modern CSS styling practices.
 1. Features include-
 2. Saving high scores in Local Storage
